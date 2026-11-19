@@ -1,0 +1,749 @@
+{
+  "units": [
+    {
+      "id": "1",
+      "title": "1. Ünite · Güneş Sistemi ve Ötesi",
+      "questions": [
+        {
+          "soru": "Gök cisimlerini incelemek için kullanılan ve uzay araştırmalarında devrim yaratan aracın adı nedir?",
+          "gorsel": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/640px-HST-SM4.jpeg",
+          "secenekler": [
+            "Mikroskop",
+            "Uzay Teleskobu",
+            "Barometre",
+            "Periskop"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi Türkiye'nin aktif haberleşme uydularından biridir?",
+          "gorsel": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/T%C3%BCrksat_4A_model.jpg/640px-T%C3%BCrksat_4A_model.jpg",
+          "secenekler": [
+            "Göktürk-2",
+            "RASAT",
+            "Türksat 4A",
+            "Bilsat"
+          ],
+          "dogruCevap": 2
+        },
+        {
+          "soru": "Yıldızların doğum yeri olarak bilinen, gaz ve toz bulutlarından oluşan gök cismi hangisidir?",
+          "gorsel": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg/640px-Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+          "secenekler": [
+            "Bulutsu (Nebula)",
+            "Kara Delik",
+            "Asteroit",
+            "Kuyruklu Yıldız"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Gök cisimlerini ayrıntılı incelemek için kullanılan araç hangisidir?",
+          "secenekler": [
+            "Mikroskop",
+            "Teleskop",
+            "Barometre",
+            "Termometre"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Yıldızların doğum yeri olarak bilinen gaz ve toz bulutu hangisidir?",
+          "secenekler": [
+            "Bulutsu (nebula)",
+            "Asteroit",
+            "Gezegen",
+            "Uydu"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi haberleşme amacıyla kullanılan yapay uyduya örnektir?",
+          "secenekler": [
+            "Türksat",
+            "Hubble aynası",
+            "Ay taşı",
+            "Meteor"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Dünya'nın da içinde bulunduğu galaksinin adı nedir?",
+          "secenekler": [
+            "Andromeda",
+            "Samanyolu",
+            "Büyükayı",
+            "Orion"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Işığın bir yılda aldığı mesafeye ne ad verilir?",
+          "secenekler": [
+            "Astronomik gün",
+            "Işık yılı",
+            "Kilometre saat",
+            "Parsek saniyesi"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Uzay kirliliğine aşağıdakilerden hangisi neden olur?",
+          "secenekler": [
+            "Uzayda bırakılan işlevsiz uydu parçaları",
+            "Yeni yıldızların oluşması",
+            "Güneş ışığının yansıması",
+            "Dünya'nın dönmesi"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi uzay araştırmalarında kullanılan insansız araçtır?",
+          "secenekler": [
+            "Uzay sondası",
+            "Denizaltı",
+            "Balon",
+            "Tren"
+          ],
+          "dogruCevap": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "2. Ünite · Hücre ve Bölünmeler",
+      "questions": [
+        {
+          "soru": "Hücrenin yönetim ve kalıtım merkezi hangi yapıdır?",
+          "secenekler": [
+            "Ribozom",
+            "Çekirdek",
+            "Hücre zarı",
+            "Koful"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Hücrede enerji üretiminden sorumlu organel hangisidir?",
+          "secenekler": [
+            "Mitokondri",
+            "Kloroplast",
+            "Golgi aygıtı",
+            "Lizozom"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Fotosentez yapan bitki hücrelerinde bulunan organel hangisidir?",
+          "secenekler": [
+            "Sentrozom",
+            "Kloroplast",
+            "Lizozom",
+            "Ribozom"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Mitoz bölünme sonucunda bir ana hücreden kaç hücre oluşur?",
+          "secenekler": [
+            "Bir",
+            "İki",
+            "Üç",
+            "Dört"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Mitoz bölünmede oluşan hücrelerin kromozom sayısı ana hücreye göre nasıldır?",
+          "secenekler": [
+            "Yarıya iner",
+            "İki katına çıkar",
+            "Aynı kalır",
+            "Her zaman sıfır olur"
+          ],
+          "dogruCevap": 2
+        },
+        {
+          "soru": "Mayoz bölünmenin temel görevlerinden biri nedir?",
+          "secenekler": [
+            "Üreme hücrelerini oluşturmak",
+            "Vücudu büyütmek",
+            "Yaraları kapatmak",
+            "Besin sindirmek"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Mayoz bölünme sonunda genellikle kaç hücre oluşur?",
+          "secenekler": [
+            "İki",
+            "Üç",
+            "Dört",
+            "Sekiz"
+          ],
+          "dogruCevap": 2
+        },
+        {
+          "soru": "Bitki hücresini hayvan hücresinden ayıran yapılardan biri hangisidir?",
+          "secenekler": [
+            "Hücre zarı",
+            "Sitoplazma",
+            "Hücre duvarı",
+            "Çekirdek"
+          ],
+          "dogruCevap": 2
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi mitoz bölünmenin canlılar için önemidir?",
+          "secenekler": [
+            "Büyüme ve yaraların onarılması",
+            "Kromozom sayısının yarıya inmesi",
+            "Üreme hücresi oluşturulması",
+            "Kalıtsal çeşitliliğin temel olarak artması"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Mayoz bölünmede kromozom sayısının yarıya inmesi neyi sağlar?",
+          "secenekler": [
+            "Döllenme sonrası türün kromozom sayısının korunmasını",
+            "Hücre zarının kaybolmasını",
+            "Tüm hücrelerin aynı olmasını",
+            "Fotosentezin hızlanmasını"
+          ],
+          "dogruCevap": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "3. Ünite · Kuvvet ve Enerji",
+      "questions": [
+        {
+          "soru": "Fiziksel anlamda iş yapılması için aşağıdakilerden hangisi gereklidir?",
+          "secenekler": [
+            "Cisme kuvvet uygulanması ve cismin kuvvet doğrultusunda yer değiştirmesi",
+            "Yalnızca kuvvet uygulanması",
+            "Cismin renk değiştirmesi",
+            "Cismin sıcaklığının sabit kalması"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Hareket hâlindeki cisimlerin sahip olduğu enerji hangisidir?",
+          "secenekler": [
+            "Kimyasal enerji",
+            "Kinetik enerji",
+            "Nükleer enerji",
+            "Ses enerjisi"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Bir cismin kinetik enerjisi hangi iki niceliğe bağlıdır?",
+          "secenekler": [
+            "Kütlesi ve sürati",
+            "Rengi ve şekli",
+            "Sıcaklığı ve kokusu",
+            "Hacmi ve rengi"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Yerden belirli bir yükseklikte bulunan cismin sahip olduğu enerji hangisidir?",
+          "secenekler": [
+            "Çekim potansiyel enerjisi",
+            "Ses enerjisi",
+            "Işık enerjisi",
+            "Elektrik enerjisi"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Aynı yükseklikte bulunan cisimlerden kütlesi büyük olanın çekim potansiyel enerjisi nasıldır?",
+          "secenekler": [
+            "Daha azdır",
+            "Daha fazladır",
+            "Her zaman sıfırdır",
+            "Değişmez, çünkü kütle etkisizdir"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Gerilmiş bir yayın sahip olduğu enerji hangisidir?",
+          "secenekler": [
+            "Esneklik potansiyel enerjisi",
+            "Kinetik enerji",
+            "Ses enerjisi",
+            "Işık enerjisi"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Sürtünme kuvveti hareket enerjisinin bir bölümünü çoğunlukla hangi enerjiye dönüştürür?",
+          "secenekler": [
+            "Isı enerjisine",
+            "Nükleer enerjiye",
+            "Kimyasal enerjiye",
+            "Işık enerjisine"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Sürtünmenin ihmal edildiği bir sistemde mekanik enerji için hangi ifade doğrudur?",
+          "secenekler": [
+            "Toplam mekanik enerji korunur",
+            "Enerji sürekli yok olur",
+            "Kütle sürekli artar",
+            "Cisimler durmak zorundadır"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Bir top yukarı doğru atıldığında yükselirken kinetik enerjisi genel olarak nasıl değişir?",
+          "secenekler": [
+            "Azalır",
+            "Artar",
+            "Sabit kalır",
+            "Önce sonsuz olur"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Bir cisme kuvvet uygulanmasına rağmen cisim yer değiştirmiyorsa fiziksel anlamda yapılan iş kaçtır?",
+          "secenekler": [
+            "Sıfır",
+            "Çok büyük",
+            "Her zaman 100 joule",
+            "Kütlesine eşit"
+          ],
+          "dogruCevap": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "4. Ünite · Saf Madde ve Karışımlar",
+      "questions": [
+        {
+          "soru": "Tek cins atomdan oluşan saf maddeye ne ad verilir?",
+          "secenekler": [
+            "Element",
+            "Karışım",
+            "Çözelti",
+            "Süspansiyon"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Farklı tür atomların belirli oranlarda kimyasal bağlarla birleşmesiyle oluşan saf madde hangisidir?",
+          "secenekler": [
+            "Element",
+            "Bileşik",
+            "Homojen karışım",
+            "Alaşım"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Tuzlu su hangi karışım türüne örnektir?",
+          "secenekler": [
+            "Homojen karışım",
+            "Heterojen karışım",
+            "Saf element",
+            "Saf bileşik"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Zeytinyağı ve su bir araya getirildiğinde nasıl bir karışım oluşturur?",
+          "secenekler": [
+            "Homojen",
+            "Heterojen",
+            "Element",
+            "Bileşik"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Bir çözeltide genellikle miktarı daha fazla olan ve diğer maddeyi çözen bileşen hangisidir?",
+          "secenekler": [
+            "Çözücü",
+            "Çözünen",
+            "Tortu",
+            "Filtre"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Kum ve su karışımını ayırmak için hangi yöntem kullanılabilir?",
+          "secenekler": [
+            "Süzme",
+            "Damıtma",
+            "Mıknatısla ayırma",
+            "Kristallendirme"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Tuzlu sudan tuzu elde etmek için suyun uzaklaştırıldığı yöntem hangisidir?",
+          "secenekler": [
+            "Buharlaştırma",
+            "Eleme",
+            "Mıknatısla ayırma",
+            "Özütleme"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Demir tozu ile kum karışımını ayırmak için hangi araç kullanılabilir?",
+          "secenekler": [
+            "Mıknatıs",
+            "Huni",
+            "Termometre",
+            "Pipet"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi saf maddedir?",
+          "secenekler": [
+            "Hava",
+            "Deniz suyu",
+            "Saf su",
+            "Toprak"
+          ],
+          "dogruCevap": 2
+        },
+        {
+          "soru": "Hava aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Gazlardan oluşan homojen karışım",
+            "Tek tür atomdan oluşan element",
+            "Saf bileşik",
+            "Heterojen katı karışım"
+          ],
+          "dogruCevap": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "5. Ünite · Işığın Madde ile Etkileşimi",
+      "questions": [
+        {
+          "soru": "Işığın bir yüzeye çarpıp geldiği ortama geri dönmesine ne denir?",
+          "secenekler": [
+            "Yansıma",
+            "Kırılma",
+            "Soğurulma",
+            "Dağılma"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Işığın bir ortamdan başka bir ortama geçerken yön değiştirmesine ne ad verilir?",
+          "secenekler": [
+            "Yansıma",
+            "Kırılma",
+            "Gölgeleme",
+            "Soğuma"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Düz aynada oluşan görüntü için hangisi doğrudur?",
+          "secenekler": [
+            "Düz ve cisimle aynı boydadır",
+            "Ters ve her zaman küçüktür",
+            "Gerçektir ve perdeye düşer",
+            "Her zaman büyüktür"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Araçların yan aynalarında geniş görüş alanı sağlamak için çoğunlukla hangi ayna kullanılır?",
+          "secenekler": [
+            "Düz ayna",
+            "Tümsek ayna",
+            "Çukur ayna",
+            "Saydam levha"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Makyaj veya tıraş aynalarında yakından bakıldığında büyük görüntü elde etmek için hangi ayna kullanılabilir?",
+          "secenekler": [
+            "Çukur ayna",
+            "Tümsek ayna",
+            "Düz ayna",
+            "Prizma"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Işığın büyük bölümünü geçiren maddeler nasıl adlandırılır?",
+          "secenekler": [
+            "Saydam",
+            "Opak",
+            "Yarı saydam olmayan",
+            "Yansıtıcı"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Buzlu cam ışığı geçirir ancak cisimleri net göstermez. Bu madde hangi gruptadır?",
+          "secenekler": [
+            "Saydam",
+            "Yarı saydam",
+            "Opak",
+            "Işık kaynağı"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Işığın büyük bölümünü geçirmeyen maddelere ne denir?",
+          "secenekler": [
+            "Saydam",
+            "Yarı saydam",
+            "Opak",
+            "Mercek"
+          ],
+          "dogruCevap": 2
+        },
+        {
+          "soru": "Beyaz ışık bir prizmadan geçirildiğinde hangi olay gözlenebilir?",
+          "secenekler": [
+            "Renklerine ayrılma",
+            "Tamamen yok olma",
+            "Kütlesinin artması",
+            "Sese dönüşmesi"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Siyah yüzeyler ışığı açık renkli yüzeylere göre genellikle nasıl davranır?",
+          "secenekler": [
+            "Daha fazla soğurur",
+            "Hiç ışık soğurmaz",
+            "Tüm ışığı geçirir",
+            "Işığı yalnızca kırar"
+          ],
+          "dogruCevap": 0
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "6. Ünite · Canlılarda Üreme, Büyüme ve Gelişme",
+      "questions": [
+        {
+          "soru": "Bir canlının kendine benzer yeni bireyler oluşturmasına ne denir?",
+          "secenekler": [
+            "Solunum",
+            "Üreme",
+            "Boşaltım",
+            "Beslenme"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Bakteriler çoğunlukla hangi eşeysiz üreme biçimiyle çoğalır?",
+          "secenekler": [
+            "Bölünerek",
+            "Tohumla",
+            "Döllenmeyle",
+            "Tomurcuklanarak"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Hidranın vücudunda oluşan küçük çıkıntının gelişerek yeni birey oluşturması hangi üreme çeşididir?",
+          "secenekler": [
+            "Tomurcuklanma",
+            "Tohumla üreme",
+            "Döllenme",
+            "Mayoz"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Çiçekli bitkilerde tohumun oluşabilmesi için gerçekleşen olaylardan biri hangisidir?",
+          "secenekler": [
+            "Döllenme",
+            "Buharlaşma",
+            "Fotosentezin durması",
+            "Solunumun bitmesi"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Erkek ve dişi üreme hücrelerinin birleşmesine ne ad verilir?",
+          "secenekler": [
+            "Döllenme",
+            "Tomurcuklanma",
+            "Mitoz",
+            "Filizlenme"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "İnsanda döllenme normalde nerede gerçekleşir?",
+          "secenekler": [
+            "Yumurta kanalında",
+            "Mide içinde",
+            "Akciğerde",
+            "Böbrekte"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Kurbağalarda döllenme genellikle nasıl gerçekleşir?",
+          "secenekler": [
+            "Dış döllenme",
+            "İç döllenme",
+            "Döllenme olmadan",
+            "Tomurcuklanma"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Başkalaşım geçiren canlıya örnek hangisidir?",
+          "secenekler": [
+            "Kelebek",
+            "Kedi",
+            "Serçe",
+            "İnsan"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Tohumun uygun koşullarda yeni bitki oluşturmak üzere gelişmesine ne denir?",
+          "secenekler": [
+            "Çimlenme",
+            "Yansıma",
+            "Mayoz",
+            "Buharlaşma"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi bitkilerde eşeysiz üremeye örnektir?",
+          "secenekler": [
+            "Patatesin yumru gövdesiyle çoğalması",
+            "Çiçekte döllenme",
+            "Tohum oluşumu",
+            "Polenlerin yumurtayı döllemesi"
+          ],
+          "dogruCevap": 0
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "7. Ünite · Elektrik Devreleri",
+      "questions": [
+        {
+          "soru": "Elektrik akımını ölçen araç hangisidir?",
+          "secenekler": [
+            "Ampermetre",
+            "Voltmetre",
+            "Termometre",
+            "Dinamometre"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Bir devrede gerilimi ölçmek için hangi araç kullanılır?",
+          "secenekler": [
+            "Ampermetre",
+            "Voltmetre",
+            "Barometre",
+            "Kronometre"
+          ],
+          "dogruCevap": 1
+        },
+        {
+          "soru": "Ampermetre elektrik devresine nasıl bağlanır?",
+          "secenekler": [
+            "Seri",
+            "Paralel",
+            "Devreye bağlanmaz",
+            "Yalnız pile paralel"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Voltmetre devre elemanına nasıl bağlanır?",
+          "secenekler": [
+            "Paralel",
+            "Seri",
+            "Anahtarla aynı noktaya zorunlu olarak",
+            "Bağlanmaz"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Basit bir elektrik devresinde pilin temel görevi nedir?",
+          "secenekler": [
+            "Elektrik enerjisi sağlamak",
+            "Akımı ölçmek",
+            "Devreyi otomatik soğutmak",
+            "Direnci sıfırlamak"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Bir iletkenin elektrik akımına karşı gösterdiği zorluğa ne denir?",
+          "secenekler": [
+            "Elektriksel direnç",
+            "Kütle",
+            "Hacim",
+            "Basınç"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Aşağıdakilerden hangisi iyi bir elektrik iletkenidir?",
+          "secenekler": [
+            "Bakır",
+            "Plastik",
+            "Kuru tahta",
+            "Cam"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Özdeş ampuller ve pil ile kurulan seri devrede ampullerden biri çıkarılırsa ne olur?",
+          "secenekler": [
+            "Devre açılır ve diğer ampuller de söner",
+            "Diğer ampuller daha parlak yanar",
+            "Hiçbir şey değişmez",
+            "Pil sayısı artar"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Paralel bağlı kollardan birindeki ampul çıkarılırsa diğer koldaki ampul için ne beklenir?",
+          "secenekler": [
+            "Yanmayı sürdürür",
+            "Kesinlikle patlar",
+            "Pil ters döner",
+            "Tüm devre elemanları yok olur"
+          ],
+          "dogruCevap": 0
+        },
+        {
+          "soru": "Direnç değeri artırıldığında, gerilim sabitken devreden geçen akım nasıl değişir?",
+          "secenekler": [
+            "Azalır",
+            "Artar",
+            "Değişmez",
+            "Önce sonsuz olur"
+          ],
+          "dogruCevap": 0
+        }
+      ]
+    }
+  ]
+}
